@@ -6,3 +6,4 @@ matplotlib
 django-jazzmin
 face_recognition
 pandas
+opencv-python
