@@ -5,3 +5,4 @@ sqlparse
 matplotlib
 django-jazzmin
 face_recognition
+pandas
