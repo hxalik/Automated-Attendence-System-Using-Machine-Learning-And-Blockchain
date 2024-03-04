@@ -4,6 +4,6 @@ pytz
 sqlparse
 matplotlib
 django-jazzmin
-face_recognition
+face-recognition
 pandas
 opencv-python
